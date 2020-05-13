@@ -1,14 +1,14 @@
 const dummyData = [
     {
         username: "philzcoffee",
-        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        thumbnailUrl: 'https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/s150x150/67248626_346350186304601_6715901285419188224_n.jpg?_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_ohc=Wmvi6R1yzF8AX_uZPgC&oh=44966ad2bfbb6bf9d305c8465073ef69&oe=5EBB7DB8',
         imageUrl: 'https://images.unsplash.com/photo-1477763858572-cda7deaa9bc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1876&q=80',
         likes: 400,
         timestamp: "July 17th 2017, 12:42:40 pm",
         comments: [
             {
                 username: "philzcoffee",
-                text: "We've got more than just coffees!"
+                text: "We've got more than just delicious coffees to offer at our shops!"
             },
             {
                 username: "biancasaurus",
@@ -29,7 +29,7 @@ const dummyData = [
         comments: [
             {
                 username: "twitch",
-                text: "Epic Street Fighter action here in Vegas!"
+                text: "Epic Street Fighter action here in Las Vegas at #EVO2017!"
             },
             {
                 username: "michaelmarzetta",
